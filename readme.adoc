@@ -1,2 +1,5 @@
-= Presentation and all Material for Herbstcampus 2016
+
+Material has been moved to
+
+https://github.com/sclassen/sessions/tree/master/herbstcampus2016
 
